@@ -1,3 +1,4 @@
+# setup
 mkdir -p ~/.streamlit/
 
 echo "\

@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd    #imported numpy library
 
 def preprocess(df,region_df):
     # filtering for summer olympics

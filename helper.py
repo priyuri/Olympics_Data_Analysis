@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  #imported numpy library
 
 
 def fetch_medal_tally(df, year, country):
